@@ -1,5 +1,5 @@
 # IMDP
-ACL project
+Adavnced Computer lab project, it was based off IMDB movies website, think of a as prodogy similar to it! 
 
 # Live link deployment: https://guarded-ocean-31937.herokuapp.com/
 
@@ -10,8 +10,8 @@ ACL project
 - Please don't edit the .gitignore file unless you tell other members first.
 
 ## Project Setup
-- Clone the repository ```git clone https://github.com/Amr-ElNahas/IMDP```
-- Access the repository directory ```cd IMDP```
+- Clone the repository ```git clone https://github.com/A/abirgamal/IMDP-```
+- Access the repository directory ```cd IMDP-```
 - Check out to the correct branch ```git checkout <branch name>```
 - install required pacakges ```npm i```
 - Copy .env_example to .env then open it and add the server port number and mongo uri and APIkey
